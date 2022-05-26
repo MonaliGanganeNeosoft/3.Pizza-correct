@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc4c"
+  },
+  "id": 1,
+  "pname": "pizza 1",
+  "price": 200,
+  "image": "http://cdn.shopify.com/s/files/1/0455/8268/0228/products/ChickenPepperoniPizzaClassic-1_1200x1200.jpg?v=1621138419"
+},{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc4d"
+  },
+  "id": 2,
+  "pname": "Pizza 2",
+  "price": 300,
+  "image": "https://www.brotherskitchen.in/wp-content/uploads/2021/03/farmhouse-pizza-vegetarian-pizza-with-mouth-watering-toppings_1024-768-600x450.jpg"
+},{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc4e"
+  },
+  "id": 3,
+  "pname": "Pizza 3",
+  "price": 250,
+  "image": "https://www.dominos.com.au/ManagedAssets/AU/product/P417/AU_P417_en_hero_7990.jpg?v-52456563"
+},{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc4f"
+  },
+  "id": 4,
+  "pname": "Pizza 4",
+  "price": 450,
+  "image": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2019/12/Greek-pizza-009-2.jpg"
+},{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc50"
+  },
+  "id": 5,
+  "pname": "Pizza 5",
+  "price": 150,
+  "image": "https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751&width=800&height=800"
+},{
+  "_id": {
+    "$oid": "61adcf27fdae1a470bebdc51"
+  },
+  "id": 6,
+  "pname": "Pizza 6",
+  "price": 499,
+  "image": "https://b.zmtcdn.com/data/dish_photos/f0d/c0ebf5690a7593440e4aab47a15a8f0d.jpg"
+}]

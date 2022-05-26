@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "61b033b23f43e3e7772bcec3"
+  },
+  "fname": "monali",
+  "lname": "gangane",
+  "email": "abc@gmail.com",
+  "mobile": {
+    "$numberLong": "9834256820"
+  },
+  "password": "Moni@123",
+  "address": "Amardeep colony shrinagar",
+  "date": {
+    "$date": {
+      "$numberLong": "1638937522990"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6217710f014cd7d88bdbcfc0"
+  },
+  "fname": "piyu",
+  "lname": "piyu",
+  "email": "piyu@gmail.com",
+  "mobile": {
+    "$numberLong": "9878787878"
+  },
+  "password": "Moni@123",
+  "address": "Amardeep colony\nshreenager rahatani",
+  "date": {
+    "$date": {
+      "$numberLong": "1645703439752"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621f20bfc62008955cf2d11b"
+  },
+  "fname": "monali",
+  "lname": "gangenae",
+  "email": "xyz1@gmail.com",
+  "mobile": {
+    "$numberLong": "9878787878"
+  },
+  "password": "Moni@123",
+  "address": "Amardeep colony\nshreenager rahatani",
+  "date": {
+    "$date": {
+      "$numberLong": "1646207167139"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4089f506e99bc8a88944"
+  },
+  "fname": "monali",
+  "lname": "gangenae",
+  "email": "moni.gangane@gmail.com",
+  "mobile": {
+    "$numberLong": "9878787878"
+  },
+  "password": "Moni@12345",
+  "address": "Amardeep colony\nshreenager rahatani",
+  "date": {
+    "$date": {
+      "$numberLong": "1653555337085"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f42f6c68ba19ba995b3fe"
+  },
+  "fname": "monali",
+  "lname": "gangenae",
+  "email": "monali.gangane@gmail.com",
+  "mobile": {
+    "$numberLong": "9878787878"
+  },
+  "password": "Monali@123ss",
+  "address": "Amardeep colony\nshreenager rahatani",
+  "date": {
+    "$date": {
+      "$numberLong": "1653555958100"
+    }
+  },
+  "__v": 0
+}]
